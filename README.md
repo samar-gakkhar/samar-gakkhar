@@ -79,4 +79,4 @@ Passionate software engineer with a focus on full-stack development. Experienced
 
 * Email: samargakkhar17@gmail.com
 * LinkedIn: https://www.linkedin.com/in/samar-gakkhar-54aa08273/
-* Twitter: //x.com/samargakkhar17
+* Twitter: https://x.com/samargakkhar17
